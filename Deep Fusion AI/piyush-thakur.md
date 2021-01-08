@@ -10,6 +10,10 @@ In any pandemic where the disease is spread through physical contact, social dis
 
 As a developer, we were handed a task to build a real-time social distancing detector with technologies like deep learning and computer vision and contribute something to counteract this devastating pandemic.
 
+I am **Piyush Thakur**, an undergraduate student from **NSEC**, **Kolkata**, as part of **Winter of Code**.
+
+This project was mentored by **Sayak Paul** bhaiya and **Rishiraj Acharya** bhaiya.
+
 # Contributions
 
 ## Issue [#5](https://github.com/DeepFusionAI/social-distance-detector/issues/5) 
@@ -126,4 +130,4 @@ We can implement this real-time social distancing detection model to places like
 
 # Overall Experience
 
-It was really a great experience since this 1 month of Winter of Code, learned a lot from mentors. We were actually blessed with the mentors, being so knowledgable and down-to-earth persons. Their support and guidance made this project a complete one. The peers were great too in their own way, I enjoyed bonding and working with them. I loved the entire journey.
+It was really a great experience since this 1 month of Winter of Code, learned a lot from mentors. We were actually blessed with the mentors, being so knowledgable and down-to-earth persons. Their support and guidance made this project a complete one. The peers(**Sudarshana**, **Subhasmita**, **Hiran**) were great too, I enjoyed bonding and working with them. I loved the entire journey.
