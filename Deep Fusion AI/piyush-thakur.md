@@ -10,7 +10,7 @@ In any pandemic where the disease is spread through physical contact, social dis
 
 As a developer, we were handed a task to build a real-time social distancing detector with technologies like deep learning and computer vision and contribute something to counteract this devastating pandemic.
 
-I am **Piyush Thakur**, an undergraduate student from **NSEC**, **Kolkata**, as part of **Winter of Code**.
+I am **Piyush Thakur**, an undergraduate student from **NSEC**, **Kolkata**, as part of **Winter of Code 2020**.
 
 This project was mentored by **Sayak Paul** bhaiya and **Rishiraj Acharya** bhaiya.
 
